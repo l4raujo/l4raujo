@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Carvalho
+# 🧑‍💻 Lucas Carvalho
 
 **`Desenvolvedor FullStack`**
 
