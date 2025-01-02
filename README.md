@@ -11,7 +11,7 @@ Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou apaixonado por tecnologia
             src="https://custom-icon-badges.demolab.com/github/stars/l4raujo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/l4raujo?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
