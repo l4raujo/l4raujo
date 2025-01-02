@@ -2,27 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou natural de São Paulo. Recentemente participei do proprofissão, um projeto realizado pelo instituto proa com parceria com a instituição Senac, onde é oferecido 150 vagas para o curso de programação, e dos 3000 inscritos no meu semestre, eu fui um dos 150. Sou apaixonado por tecnologia e movido á inovação constante.
+Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou natural de São Paulo. Recentemente participei do proprofissão, um curso realizado pelo instituto proa em parceria com o Senac, onde é oferecido 150 vagas para o curso de programação, e dos 3000 inscritos no meu semestre, eu fui um dos 150 selecionados. Sou apaixonado por tecnologia e movido á inovação constante.
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/l4raujo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
