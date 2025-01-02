@@ -42,7 +42,7 @@ Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou natural de São Paulo. Re
   />
     
   <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4raujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
