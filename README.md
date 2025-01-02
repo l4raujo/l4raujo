@@ -1,4 +1,4 @@
-# 🧑‍💻 Lucas Carvalho
+## Hi, there I'm Lucas 🧑‍💻
 
 **`Desenvolvedor FullStack`**
 
@@ -25,7 +25,7 @@ Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou apaixonado por tecnologia
 ### 🤖 Linguagens e Tecnologias
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,kotlin,mysql,py,react,sass,spring,styledcomponents,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,kotlin,mysql,py,react,sass,spring,styledcomponents,tailwind,ts,nodejs)](https://skillicons.dev)
 
 <br/>
 <br/>
