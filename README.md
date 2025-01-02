@@ -20,7 +20,6 @@ Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou apaixonado por tecnologia
     </a>
 </p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -31,7 +30,6 @@ Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou apaixonado por tecnologia
 </p>
 
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
