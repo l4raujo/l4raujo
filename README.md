@@ -24,7 +24,7 @@ Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou apaixonado por tecnologia
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,docker,kotlin,mysql,py,react,sass,spring,styledcomponents,tailwind,ts,nodejs,git" />
   </a>
