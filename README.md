@@ -137,6 +137,8 @@ Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou natural de São Paulo. Re
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <br/>
 <br/>
 
