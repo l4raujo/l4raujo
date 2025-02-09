@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Araujo de Carvalho, tenho 18 anos e sou apaixonado por tecnologia e tudo que move á inovação. Recentemente participei do proprofissão, um curso realizado pelo instituto proa em parceria com o Senac, onde é oferecido 150 vagas para o curso de programação, e dos 3000 inscritos no meu semestre, fui um dos 150 selecionados.
-<p align="left">
+Sou Lucas, tenho 18 anos e sou apaixonado por tecnologia e tudo que move á inovação. Recentemente participei do proprofissão, um curso realizado pelo instituto proa em parceria com o Senac, onde é oferecido 150 vagas para o curso de programação, e dos 3000 inscritos no meu semestre, fui um dos 150 selecionados.
+<p align="center">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
