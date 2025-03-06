@@ -25,7 +25,7 @@ Sou Lucas, tenho 18 anos e sou apaixonado por tecnologia e tudo que move á inov
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,docker,kotlin,mysql,py,react,sass,spring,styledcomponents,tailwind,ts,nodejs,git" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,ts,js,react,kotlin,sass,styledcomponents,tailwind,docker,mysql,git" />
   </a>
 </p>
 
