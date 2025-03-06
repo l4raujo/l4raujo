@@ -1,8 +1,10 @@
-# Hi, there I'm Lucas 🧑‍💻
+# Hi, there I'm Lucas Carvalho 🧑‍💻
 
-**`Desenvolvedor FullStack`**
+**`Fullstack Developer`**
 
-Sou Lucas, tenho 18 anos e sou apaixonado por tecnologia e tudo que move á inovação. Recentemente participei do proprofissão, um curso realizado pelo instituto proa em parceria com o Senac, onde é oferecido 150 vagas para o curso de programação, e dos 3000 inscritos no meu semestre, fui um dos 150 selecionados.
+Sou o Lucas, desenvolvedor de software e entusiasta da tecnologia e tudo que move á inovação. Participei do proprofissão, um curso realizado pelo instituto proa, de programação onde são oferecidas 150 vagas para uma longa trajetória de muito aprendizado e conhecimento em prática, lá nasceu a Kathon, um projeto real desenvolvido ao logo da formação e que compôs tudo aquilo que foi nos ensinado. Recentemente iniciei minha graduação em Sistemas da Informação, na Faculdade Impacta de Tecnologia.
+
+--- 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
