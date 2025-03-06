@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
-Sou o Lucas, desenvolvedor de software entusiasta da tecnologia e tudo que move á inovação. Participei do proprofissão, um curso realizado pelo instituto proa de programação, onde são oferecidas 150 vagas para uma longa trajetória de muito aprendizado e conhecimento em prática, lá nasceu a Kathon, um projeto real desenvolvido ao logo da formação e que compôs tudo aquilo que foi nos ensinado. Recentemente iniciei minha graduação em Sistemas da Informação, na Faculdade Impacta de Tecnologia.
+Sou o Lucas, desenvolvedor de software entusiasta da tecnologia e tudo que move á inovação. Participei do proprofissão, um curso realizado pelo instituto proa de programação, onde são oferecidas 150 vagas para uma longa trajetória de muito aprendizado e conhecimento em prática, lá nasceu a Kathon, um projeto real desenvolvido ao logo da formação e que compôs tudo aquilo que foi nos ensinado. Recentemente iniciei minha graduação em Sistemas da Informação, na Faculdade Impacta de Tecnologia impulsionando minha carreira e sendo um ambiente de muito aprendizado e trocas de experiências.
 
 --- 
 <p align="left">
