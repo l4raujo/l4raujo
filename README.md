@@ -32,8 +32,9 @@ Sou o Lucas, desenvolvedor de software entusiasta da tecnologia e tudo que move 
 
 
 <br/>
----
+
 ### 📊 Estatísticas
+---
 
 <p>
   <img 
